@@ -1,5 +1,6 @@
 Line Injector
 ===================
+
 This repository contains the schematics and mechanical files for a line injector. A line can be used to inject a ripple voltage into the supply line of a circuit. This can, for example, be used to measure the [power supply rejection ratio (PSRR)](https://en.wikipedia.org/wiki/Power_supply_rejection_ratio) of a regulator.
 
 Key Features:
@@ -15,17 +16,22 @@ The design was done using [KiCAD 6](https://www.kicad.org/).
 
 Photos of the finished design
 ------------------------------
-Front:
+
+### Front
+
 ![Line injector photo front](images/BM1A2124_small.JPG)
 
-Back:
+### Back
+
 ![Line injector photo back](images/BM1A2125_small.JPG)
 
-PCB:
+### PCB
+
 ![Line injector photo back](images/BM1A2129_small.JPG)
 
 About
 -----
+
 The root folder contains the KiCAD files and the bill of materials, while the gerber files can be found in the [/gerber](gerber/) folder.
 
 Related Repositories

@@ -1,0 +1,29 @@
+Component,Quantity Per PCB,References,Value,MFN,PN,Description,Footprint,Alternative
+1,2,C4  C6,1u,TDK,CGA5L2X7R2A105M160AE,Unpolarized capacitor,C_1206_3216Metric,TDK CGA5L2X7R2A105K160AA
+2,1,C2,4.7u,TDK,CNA6P1X7R2A475K250AE,Unpolarized capacitor,C_1210_3225Metric,TDK CNC6P1X7R2A475K250AE
+3,1,C5,33u,United Chemicon,EGXF351ELL330MJ35S,Polarized capacitor,CP_Radial_D10.0mm_P5.00mm,Rubycon 160LEX33MEFC10X16
+4,2,C1  C3,1m,Nichicon,UPW2A102MHD,Polarized capacitor,CP_Radial_D18.0mm_P7.50mm,United Chemicon EKYB101ELL102MM40S
+5,1,HS1,Heatsink,Ohmite,RA-T2X-38E,"Heatsink with electrical connection, 1 pin",Heatsink_42x25mm_2xFixation_Ohmite-R-series,
+6,3,J1  J3-J4,Conn_01x01_Female,Schützinger,SWEB 8094 AU / RT,"Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)",Schuetzinger_4mm_Jack,Cliff FCR7350R
+7,3,J2  J5-J6,Conn_01x01_Female,Schützinger,SWEB 8094 AU / SW,"Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)",Schuetzinger_4mm_Jack,Cliff FCR7350B
+8,1,J7,Conn_Coaxial,TE Connectivity,5227161-7,"coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)",BNC_Amphenol_B6252HB-NPP3G-50_Horizontal,
+9,1,N1,Housing,Hammond Manufacturing Ltd.,1457N1201EBK,Housing,,
+10,1,Q1,AOT2618,Alpha & Omega Semiconductor Inc.,AOT2618L,"N-MOSFET transistor, gate/drain/source",TO-220-3_Vertical,
+11,3,R2-R4,49.9R,Yageo,AC1206FR-0749R9L,Resistor,R_1206_3216Metric,Panasonic ERJ-U08F49R9V
+12,1,R1,10k,Yageo,AC0805FR-0710KL,Resistor,R_0805_2012Metric,Panasonic ERJ-6ENF1002V
+
+
+
+
+
+Component Groups:,12
+Component Count:,20
+Fitted Components:,20
+Number of PCBs:,1
+Total components:,20
+Schematic Version:,v1.0.1
+Schematic Date:,2022-03-07
+PCB Variant:,default
+BoM Date:,2022-07-29T14:26:00 CEST
+Schematic Source:,main.kicad_sch
+KiCad Version:,Eeschema (6.0.6)
