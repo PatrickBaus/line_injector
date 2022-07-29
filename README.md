@@ -10,6 +10,20 @@ Key Features:
 
 ![Line injector pcb](images/pcb.png)
 
+The design was done using [KiCAD 6](https://www.kicad.org/).
+
+
+Photos of the finished design
+------------------------------
+Front:
+![Line injector photo front](images/BM1A2124_small.JPG)
+
+Back:
+![Line injector photo back](images/BM1A2125_small.JPG)
+
+PCB:
+![Line injector photo back](images/BM1A2129_small.JPG)
+
 About
 -----
 The root folder contains the KiCAD files and the bill of materials, while the gerber files can be found in the [/gerber](gerber/) folder.
