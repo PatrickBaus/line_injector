@@ -5,6 +5,7 @@ This repository contains the schematics and mechanical files for a line injector
 
 Key Features:
  * Bandwidth (-3 dB): 6 Hz - 35 MHz (into 50 Ω)
+ * Passband transfer function is about 0.95 (@ 5V) and 0.75 (@ 15V)
  * Maximum input voltage: 50 V
  * Maximum current: 5 A
  * Remote sensing inputs to compensate for the voltage drop over the MOSFET
@@ -17,7 +18,7 @@ Bode Plot
 ------------------------------
 ![Bode Plot](images/line_injector_bode.png)
 
-Additionally, a report from the Bode 100 VNA used to characterize the injector can be found [here](/suplemental/Line Injector_JFW.pdf).
+Additionally, a report from the Bode 100 VNA used to characterize the injector can be found [here](/supplemental/Line Injector_JFW.pdf).
 
 Photos of the finished design
 ------------------------------
@@ -37,7 +38,7 @@ Photos of the finished design
 About
 -----
 
-The root folder contains the KiCAD files and the bill of materials, while the gerber files can be found in the [/gerber](gerber/) folder.
+The root folder contains the KiCAD files, while the gerber files can be found in the [/gerber](gerber/) folder, the bill of materials in the [/bom](bom/) folder.
 
 Related Repositories
 --------------------
