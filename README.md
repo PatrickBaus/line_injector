@@ -5,7 +5,7 @@ This repository contains the schematics and mechanical files for a line injector
 
 Key Features:
  * Bandwidth (-3 dB): 6 Hz - 35 MHz (into 50 Ω)
- * Passband transfer function is about 0.95 (@ 5V) and 0.75 (@ 15V)
+ * Passband transfer function is about 0.95 V/V (@ 5V) and 0.975 V/V (@ 15V)
  * Maximum input voltage: 50 V
  * Maximum current: 5 A
  * Remote sensing inputs to compensate for the voltage drop over the MOSFET
@@ -18,7 +18,7 @@ Bode Plot
 ------------------------------
 ![Bode Plot](images/line_injector_bode.png)
 
-Additionally, a report from the Bode 100 VNA used to characterize the injector can be found [here](/supplemental/Line Injector_JFW.pdf).
+Additionally, a report from the Bode 100 VNA used to characterize the injector can be found [here](/supplemental/Line%20Injector_JFW.pdf).
 
 Photos of the finished design
 ------------------------------
