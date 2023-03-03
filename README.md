@@ -13,6 +13,11 @@ Key Features:
 
 The design was done using [KiCAD 6](https://www.kicad.org/).
 
+Bode Plot
+------------------------------
+![Bode Plot](images/line_injector_bode.png)
+
+Additionally, a report from the Bode 100 VNA used to characterize the injector can be found [here](/suplemental/Line Injector_JFW.pdf).
 
 Photos of the finished design
 ------------------------------
