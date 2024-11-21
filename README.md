@@ -53,10 +53,6 @@ See the following repositories for more information
 
 KiCAD footprints: https://github.com/PatrickBaus/footprints.pretty
 
-KiCAD 3D models: https://github.com/PatrickBaus/footprints.3dshapes
-
-KiCAD schematic libraries: https://github.com/PatrickBaus/KiCad-libraries
-
 ## Versioning
 I use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags](../../tags) available for this repository.
 
