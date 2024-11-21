@@ -49,7 +49,7 @@ The root folder contains the KiCAD files. The bill of materials can be found on 
 The PCB fits into a Hammond Manufacturing [1457N1201EBK](https://www.hammfg.com/electronics/small-case/extruded/1457-emi) case. Additionally a few drilled holes need to be drilled for the connectors.
 
 ## Related Repositories
-See the following repositories for more information
+See the following repositories for more information.
 
 KiCAD footprints: https://github.com/PatrickBaus/footprints.pretty
 
