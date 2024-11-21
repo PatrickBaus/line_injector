@@ -230,6 +230,32 @@
 				)
 			)
 		)
+		(property "RoHS" "Yes"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ecdbc6ef-3819-442b-b15a-93b03217a440")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Temperature" "Tstorage = –40 °C to 125 °C"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c78a3b4d-ac57-440f-9626-eb437140f98c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "CP_*")
 		(path "/00000000-0000-0000-0000-0000618d50e3")
 		(sheetname "Root")
@@ -2351,6 +2377,32 @@
 				)
 			)
 		)
+		(property "RoHS" "Yes"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fd765df9-68ec-4924-9a5b-314ecfabbf4d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Temperature" "Tstorage = –55 °C to 125 °C"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c78ceded-10cf-431d-a729-d3e4c6ed5fea")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/00000000-0000-0000-0000-0000618de5fe")
 		(sheetname "Root")
@@ -2590,6 +2642,32 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "1e149d5c-4e7d-4788-879d-7e68ff7be858")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "RoHS" "Yes"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3649aae2-dfdf-4818-a4be-6518df1f8fff")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Temperature" "Tstorage = –55 °C to 105 °C"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8a2f3b06-8498-482c-81a3-7c2e74f962bf")
 			(effects
 				(font
 					(size 1 1)
@@ -5809,6 +5887,32 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "2be232fd-6b76-44e3-b6c8-6e4c90266bf7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "RoHS" "Yes"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "aa4fb9f4-f3b6-49a4-aa8b-843d33658174")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Temperature" "Tstorage = –55 °C to 105 °C"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9b16cb9d-742b-4c9d-8468-bf68ad2c832f")
 			(effects
 				(font
 					(size 1 1)
@@ -9053,6 +9157,32 @@
 				)
 			)
 		)
+		(property "RoHS" "Yes"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d907199a-fe42-40a2-b46a-1633984ac5af")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Temperature" "Tstorage = –25 °C to 80 °C, FCR7350X: -40 °C to 80 °C"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cca04dc2-61ef-4904-ac1c-5d0e0511c4a2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/00000000-0000-0000-0000-000061911e61")
 		(sheetname "Root")
@@ -9373,6 +9503,45 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "d75710c6-ab02-424e-b488-f0a79c21ce33")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "RoHS" "Yes"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a6e2093b-7101-4f0d-80ad-8d1627763fe6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Tempeature" "Tstorage = –25 °C to 80 °C, FCR7350X: -40 °C to 80 °C"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "09ad057a-c8e9-4f43-92ce-49132b8cf1dd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Temperature" "Tstorage = –25 °C to 80 °C, FCR7350X: -40 °C to 80 °C"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2cd06549-653b-4d76-bf1a-877312ed9139")
 			(effects
 				(font
 					(size 1 1)
@@ -10246,6 +10415,32 @@
 				)
 			)
 		)
+		(property "RoHS" "Yes"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "33015a9d-1368-4cb0-a581-83291921c2fd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Temperature" "Tstorage = –55 °C to 175 °C"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9ae6bd67-ddbf-4758-aa2d-b4acd75c4613")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/00000000-0000-0000-0000-0000618e1cab")
 		(sheetname "Root")
 		(sheetfile "line_injector.kicad_sch")
@@ -10586,6 +10781,32 @@
 				)
 			)
 		)
+		(property "RoHS" "By excemption"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "37a750f5-1f2d-4b60-a517-181df7cf910a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Temperature" "Tstorage = –55 °C to 155 °C"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b2d7ed1f-a0bc-4a39-9072-c1f80a27a108")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/00000000-0000-0000-0000-0000618e6c6f")
 		(sheetname "Root")
@@ -10825,6 +11046,32 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "4c93f02f-bb66-43fd-81b6-2fb8f8721219")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "RoHS" "Yes"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "79919fae-61cf-4f4b-8082-1caf98410319")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Temperature" "Tstorage = –55 °C to 125 °C"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cc6f8caf-5d50-4294-b2f0-511bc28211df")
 			(effects
 				(font
 					(size 1 1)
@@ -11078,6 +11325,32 @@
 				)
 			)
 		)
+		(property "RoHS" "Yes"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a48cdaa1-d31b-4bba-8dc7-745c8c248918")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Temperature" "Tstorage = –55 °C to 125 °C"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e3dc90d6-a3d1-499f-a1d4-677a28f93947")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/00000000-0000-0000-0000-0000618eb72c")
 		(sheetname "Root")
@@ -11323,6 +11596,32 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "d42abc26-6390-47ef-9837-431794f74c63")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "RoHS" "Yes"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "12dd5202-0b5a-4925-acd4-123bfa28fe44")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Temperature" "Tstorage = –25 °C to 80 °C, FCR7350X: -40 °C to 80 °C"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b5ee1803-2ab1-4887-8b28-66ba3b7a8085")
 			(effects
 				(font
 					(size 1 1)
@@ -11632,6 +11931,32 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "814ec66c-2dc5-4f40-b786-543ff22f0e21")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "RoHS" "By excemption"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "15e9cd53-2d02-415b-be60-f8632f296ca2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Temperature" "Tstorage = –55 °C to 85 °C"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fa545ec8-061e-415d-8aa4-9c05616720fa")
 			(effects
 				(font
 					(size 1 1)
@@ -12109,6 +12434,32 @@
 				)
 			)
 		)
+		(property "RoHS" "Yes"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "eb8b4639-1605-4791-a700-bd18d9f6dba1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Temperature" "Tstorage = –25 °C to 80 °C, FCR7350X: -40 °C to 80 °C"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "09fa835a-c4e3-42f5-9040-f2467b238013")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/00000000-0000-0000-0000-0000618ee54f")
 		(sheetname "Root")
@@ -12436,6 +12787,32 @@
 				)
 			)
 		)
+		(property "RoHS" "Yes"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "380e73b4-d4a3-43ee-8a8e-70c35f0efbb9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Temperature" "Tstorage = –25 °C to 80 °C, FCR7350X: -40 °C to 80 °C"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a52517ab-4b55-4e57-a408-1a03593deb74")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/00000000-0000-0000-0000-0000618f1223")
 		(sheetname "Root")
@@ -12708,7 +13085,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Atoms - Photons - Quanta"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -12725,18 +13102,6 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "f70fde3c-302a-418a-b6b5-12f0256d6a67")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "exclude_from_bom" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "b9e9643b-8e28-4f7e-b334-972b6c7b677b")
 			(effects
 				(font
 					(size 1 1)
@@ -12940,6 +13305,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "5fccf0b5-7878-4280-999b-c9a1397caad1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "RoHS" "Yes"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b68c2508-9810-4eca-b612-c51670ac3307")
 			(effects
 				(font
 					(size 1 1)
@@ -13826,7 +14204,7 @@
 		)
 		(fp_arc
 			(start -17.691791 -12.749206)
-			(mid -16.926426 -12.74787)
+			(mid -16.926425 -12.74787)
 			(end -16.386175 -12.20573)
 			(stroke
 				(width 0.12)
@@ -14145,7 +14523,7 @@
 		)
 		(fp_arc
 			(start 19.058317 -9.075185)
-			(mid 19.74446 -9.414236)
+			(mid 19.744463 -9.41424)
 			(end 20.469421 -9.168911)
 			(stroke
 				(width 0.12)
@@ -14970,7 +15348,7 @@
 		)
 		(fp_arc
 			(start 13.725181 -12.49953)
-			(mid 14.203563 -12.285871)
+			(mid 14.203527 -12.285865)
 			(end 14.39953 -11.8)
 			(stroke
 				(width 0.1)
@@ -15132,6 +15510,32 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "97d62827-d7e2-4983-af1d-ef5dc7806e34")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "RoHS" "Yes"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d9e511ba-f35c-4148-8de0-766ab71e954d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Temperature" "Tstorage = –25 °C to 80 °C, FCR7350X: -40 °C to 80 °C"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3c4b8433-0eb8-4ece-af6c-db0cd088a42f")
 			(effects
 				(font
 					(size 1 1)
@@ -15465,6 +15869,34 @@
 				(justify mirror)
 			)
 		)
+		(property "RoHS" "By excemption"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "68762244-4c3a-45a4-974a-be1a696c5e31")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Temperature" "Tstorage = –55 °C to 155 °C"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "405579d8-79b4-4068-a7b2-b003b41096a3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/00000000-0000-0000-0000-000061910ed1")
 		(sheetname "Root")
@@ -15717,6 +16149,34 @@
 				(justify mirror)
 			)
 		)
+		(property "RoHS" "By excemption"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "027d8ad1-560b-46b6-819d-d9c85a3c8db7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Temperature" "Tstorage = –55 °C to 155 °C"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "3bbc58ad-2ca8-4a46-b8e9-f30b877d35bf")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/00000000-0000-0000-0000-000061928ac7")
 		(sheetname "Root")
@@ -15961,6 +16421,34 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "bca7751b-7a5b-4a84-aab3-7478a8d23850")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "RoHS" "By excemption"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "06e54ebc-3a2d-49f0-b5d3-6551360276e7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Temperature" "Tstorage = –55 °C to 155 °C"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "c45b2290-4874-42d2-8cae-a66f25237627")
 			(effects
 				(font
 					(size 1 1)

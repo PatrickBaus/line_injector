@@ -2989,6 +2989,24 @@
 				(hide yes)
 			)
 		)
+		(property "RoHS" "Yes"
+			(at 24.13 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Temperature" "Tstorage = –25 °C to 80 °C, FCR7350X: -40 °C to 80 °C"
+			(at 24.13 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d1f97e6b-c268-475d-be99-437831311a35")
 		)
@@ -3072,6 +3090,24 @@
 			)
 		)
 		(property "Alternative" "Cliff FCR7350B"
+			(at 34.29 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "RoHS" "Yes"
+			(at 34.29 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Temperature" "Tstorage = –25 °C to 80 °C, FCR7350X: -40 °C to 80 °C"
 			(at 34.29 87.63 0)
 			(effects
 				(font
@@ -3368,6 +3404,24 @@
 				(hide yes)
 			)
 		)
+		(property "RoHS" "Yes"
+			(at 109.22 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Temperature" "Tstorage = –40 °C to 125 °C"
+			(at 109.22 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ce54653e-4463-41fe-adbd-9e0ddc44c74b")
 		)
@@ -3594,6 +3648,24 @@
 				(hide yes)
 			)
 		)
+		(property "RoHS" "Yes"
+			(at 120.65 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Temperature" "Tstorage = –55 °C to 125 °C"
+			(at 120.65 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e8e2a42b-4764-4ddf-83b2-0fc1d04b1100")
 		)
@@ -3673,6 +3745,24 @@
 			)
 		)
 		(property "PN" "AOT2618L"
+			(at 172.72 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "RoHS" "Yes"
+			(at 172.72 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Temperature" "Tstorage = –55 °C to 175 °C"
 			(at 172.72 72.39 0)
 			(effects
 				(font
@@ -3780,6 +3870,24 @@
 				(hide yes)
 			)
 		)
+		(property "RoHS" "By excemption"
+			(at 158.75 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Temperature" "Tstorage = –55 °C to 155 °C"
+			(at 158.75 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "003721da-b645-4703-8a1f-33eb61dc1a1e")
 		)
@@ -3868,6 +3976,24 @@
 			)
 		)
 		(property "Alternative" "TDK CGA5L2X7R2A105K160AA"
+			(at 148.59 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "RoHS" "Yes"
+			(at 148.59 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Temperature" "Tstorage = –55 °C to 125 °C"
 			(at 148.59 81.28 0)
 			(effects
 				(font
@@ -3972,6 +4098,24 @@
 				(hide yes)
 			)
 		)
+		(property "RoHS" "Yes"
+			(at 158.75 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Temperature" "Tstorage = –55 °C to 125 °C"
+			(at 158.75 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f49fcd9c-8686-4902-8c11-13e0344b8cd1")
 		)
@@ -4058,6 +4202,24 @@
 			)
 		)
 		(property "Alternative" "Cliff FCR7350B"
+			(at 245.11 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "RoHS" "Yes"
+			(at 245.11 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Temperature" "Tstorage = –25 °C to 80 °C, FCR7350X: -40 °C to 80 °C"
 			(at 245.11 95.25 0)
 			(effects
 				(font
@@ -4157,6 +4319,24 @@
 				(hide yes)
 			)
 		)
+		(property "RoHS" "Yes"
+			(at 245.11 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Temperature" "Tstorage = –25 °C to 80 °C, FCR7350X: -40 °C to 80 °C"
+			(at 245.11 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "865a9162-726f-4a41-97ff-300c179f138e")
 		)
@@ -4232,6 +4412,24 @@
 			)
 		)
 		(property "PN" "5227161-7"
+			(at 106.68 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "RoHS" "By excemption"
+			(at 106.68 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Temperature" "Tstorage = –55 °C to 85 °C"
 			(at 106.68 92.71 0)
 			(effects
 				(font
@@ -4328,6 +4526,24 @@
 			)
 		)
 		(property "Alternative" "Panasonic ERJ-U08F49R9V"
+			(at 118.11 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "RoHS" "By excemption"
+			(at 118.11 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Temperature" "Tstorage = –55 °C to 155 °C"
 			(at 118.11 99.06 0)
 			(effects
 				(font
@@ -4562,6 +4778,24 @@
 				(hide yes)
 			)
 		)
+		(property "RoHS" "Yes"
+			(at 201.93 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Temperature" "Tstorage = –55 °C to 105 °C"
+			(at 201.93 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0771bbee-0267-4d8f-9dce-c2c36089d01c")
 		)
@@ -4641,6 +4875,24 @@
 			)
 		)
 		(property "PN" "UPW2A102MHD"
+			(at 201.93 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "RoHS" "Yes"
+			(at 201.93 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Temperature" "Tstorage = –55 °C to 105 °C"
 			(at 201.93 118.11 0)
 			(effects
 				(font
@@ -4745,6 +4997,24 @@
 				(hide yes)
 			)
 		)
+		(property "RoHS" "By excemption"
+			(at 201.93 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Temperature" "Tstorage = –55 °C to 155 °C"
+			(at 201.93 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "511e7c40-5d29-41f8-b90d-f3a7282d517c")
 		)
@@ -4839,6 +5109,33 @@
 				(hide yes)
 			)
 		)
+		(property "RoHS" "Yes"
+			(at 246.38 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tempeature" "Tstorage = –25 °C to 80 °C, FCR7350X: -40 °C to 80 °C"
+			(at 246.38 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Temperature" "Tstorage = –25 °C to 80 °C, FCR7350X: -40 °C to 80 °C"
+			(at 246.38 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9cbdfa6e-b3b8-4040-a485-4cad5722d0ff")
 		)
@@ -4922,6 +5219,24 @@
 			)
 		)
 		(property "Alternative" "Cliff FCR7350B"
+			(at 245.11 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "RoHS" "Yes"
+			(at 245.11 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Temperature" "Tstorage = –25 °C to 80 °C, FCR7350X: -40 °C to 80 °C"
 			(at 245.11 113.03 0)
 			(effects
 				(font
@@ -5088,6 +5403,24 @@
 				(hide yes)
 			)
 		)
+		(property "RoHS" "By excemption"
+			(at 201.93 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Temperature" "Tstorage = –55 °C to 155 °C"
+			(at 201.93 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bfba8411-6fec-4523-82b9-290433a8e694")
 		)
@@ -5167,6 +5500,15 @@
 			)
 		)
 		(property "PN" "RA-T2X-38E"
+			(at 181.61 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "RoHS" "Yes"
 			(at 181.61 66.04 0)
 			(effects
 				(font
@@ -5382,6 +5724,15 @@
 			)
 		)
 		(property "PN" "1457N1201EBK"
+			(at 55.88 40.005 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "RoHS" "Yes"
 			(at 55.88 40.005 0)
 			(effects
 				(font
