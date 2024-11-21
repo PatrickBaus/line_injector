@@ -233,7 +233,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/00000000-0000-0000-0000-0000618d50e3")
 		(sheetname "Root")
-		(sheetfile "main.kicad_sch")
+		(sheetfile "line_injector.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 7.581 -0.599)
@@ -2354,7 +2354,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/00000000-0000-0000-0000-0000618de5fe")
 		(sheetname "Root")
-		(sheetfile "main.kicad_sch")
+		(sheetfile "line_injector.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.711252 1.36)
@@ -2600,7 +2600,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/00000000-0000-0000-0000-0000618fea94")
 		(sheetname "Root")
-		(sheetfile "main.kicad_sch")
+		(sheetfile "line_injector.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -6.00944 -5.115)
@@ -5819,7 +5819,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/00000000-0000-0000-0000-000061909753")
 		(sheetname "Root")
-		(sheetfile "main.kicad_sch")
+		(sheetfile "line_injector.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 12.87 -0.04)
@@ -9056,7 +9056,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/00000000-0000-0000-0000-000061911e61")
 		(sheetname "Root")
-		(sheetfile "main.kicad_sch")
+		(sheetfile "line_injector.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -13.6 -6.1)
@@ -9383,7 +9383,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/00000000-0000-0000-0000-00006191191c")
 		(sheetname "Root")
-		(sheetfile "main.kicad_sch")
+		(sheetfile "line_injector.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -13.6 -6.1)
@@ -9669,7 +9669,7 @@
 		)
 		(path "/00000000-0000-0000-0000-00005dda7885")
 		(sheetname "Root")
-		(sheetfile "main.kicad_sch")
+		(sheetfile "line_injector.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_poly
 			(pts
@@ -10248,7 +10248,7 @@
 		)
 		(path "/00000000-0000-0000-0000-0000618e1cab")
 		(sheetname "Root")
-		(sheetfile "main.kicad_sch")
+		(sheetfile "line_injector.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -2.58 -3.27)
@@ -10589,7 +10589,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/00000000-0000-0000-0000-0000618e6c6f")
 		(sheetname "Root")
-		(sheetfile "main.kicad_sch")
+		(sheetfile "line_injector.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.227064 0.735)
@@ -10835,7 +10835,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/00000000-0000-0000-0000-0000618e7c1f")
 		(sheetname "Root")
-		(sheetfile "main.kicad_sch")
+		(sheetfile "line_injector.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.711252 0.91)
@@ -11081,7 +11081,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/00000000-0000-0000-0000-0000618eb72c")
 		(sheetname "Root")
-		(sheetfile "main.kicad_sch")
+		(sheetfile "line_injector.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.711252 0.91)
@@ -11333,7 +11333,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/00000000-0000-0000-0000-00005fd967a5")
 		(sheetname "Root")
-		(sheetfile "main.kicad_sch")
+		(sheetfile "line_injector.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -13.6 -6.1)
@@ -11642,7 +11642,7 @@
 		(property ki_fp_filters "*BNC* *SMA* *SMB* *SMC* *Cinch* *LEMO* *UMRF* *MCX* *U.FL*")
 		(path "/00000000-0000-0000-0000-0000618f2c23")
 		(sheetname "Root")
-		(sheetfile "main.kicad_sch")
+		(sheetfile "line_injector.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 7.5 -12.7)
@@ -12112,7 +12112,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/00000000-0000-0000-0000-0000618ee54f")
 		(sheetname "Root")
-		(sheetfile "main.kicad_sch")
+		(sheetfile "line_injector.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 5.6 6.1)
@@ -12439,7 +12439,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/00000000-0000-0000-0000-0000618f1223")
 		(sheetname "Root")
-		(sheetfile "main.kicad_sch")
+		(sheetfile "line_injector.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 5.6 6.1)
@@ -12746,7 +12746,7 @@
 		)
 		(path "/00000000-0000-0000-0000-00005f802845")
 		(sheetname "Root")
-		(sheetfile "main.kicad_sch")
+		(sheetfile "line_injector.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -12950,7 +12950,7 @@
 		(property ki_fp_filters "Heatsink_*")
 		(path "/00000000-0000-0000-0000-000061947305")
 		(sheetname "Root")
-		(sheetfile "main.kicad_sch")
+		(sheetfile "line_injector.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -21.75 -0.34452)
@@ -15142,7 +15142,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/00000000-0000-0000-0000-00005fd8a2d4")
 		(sheetname "Root")
-		(sheetfile "main.kicad_sch")
+		(sheetfile "line_injector.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -13.6 -6.1)
@@ -15468,7 +15468,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/00000000-0000-0000-0000-000061910ed1")
 		(sheetname "Root")
-		(sheetfile "main.kicad_sch")
+		(sheetfile "line_injector.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.727064 0.91)
@@ -15720,7 +15720,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/00000000-0000-0000-0000-000061928ac7")
 		(sheetname "Root")
-		(sheetfile "main.kicad_sch")
+		(sheetfile "line_injector.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.727064 0.91)
@@ -15972,7 +15972,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/00000000-0000-0000-0000-0000618f3845")
 		(sheetname "Root")
-		(sheetfile "main.kicad_sch")
+		(sheetfile "line_injector.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.727064 0.91)
