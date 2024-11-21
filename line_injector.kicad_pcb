@@ -10,7 +10,7 @@
 	(title_block
 		(title "Line Injector")
 		(date "2024-11-21")
-		(rev "v1.0.2")
+		(rev "1.0.2")
 		(comment 1 "Copyright (©) 2024, Patrick Baus <patrick.baus@physik.tu-darmstadt.de>")
 		(comment 2 "Licensed under CERN OHL-W v2.0")
 	)
@@ -13826,7 +13826,7 @@
 		)
 		(fp_arc
 			(start -17.691791 -12.749206)
-			(mid -16.926425 -12.74787)
+			(mid -16.926426 -12.74787)
 			(end -16.386175 -12.20573)
 			(stroke
 				(width 0.12)
@@ -14145,7 +14145,7 @@
 		)
 		(fp_arc
 			(start 19.058317 -9.075185)
-			(mid 19.74446 -9.41424)
+			(mid 19.74446 -9.414236)
 			(end 20.469421 -9.168911)
 			(stroke
 				(width 0.12)
@@ -14970,7 +14970,7 @@
 		)
 		(fp_arc
 			(start 13.725181 -12.49953)
-			(mid 14.203536 -12.285845)
+			(mid 14.203563 -12.285871)
 			(end 14.39953 -11.8)
 			(stroke
 				(width 0.1)
