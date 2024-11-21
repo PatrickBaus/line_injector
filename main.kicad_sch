@@ -306,8 +306,8 @@
 			(exclude_from_sim no)
 			(in_bom no)
 			(on_board yes)
-			(property "Reference" "#LOGO"
-				(at 6.35 6.985 0)
+			(property "Reference" "#SYM"
+				(at 0 6.35 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -316,7 +316,7 @@
 				)
 			)
 			(property "Value" "Logo_APQ"
-				(at 6.35 -6.35 0)
+				(at 0 -6.35 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -325,7 +325,7 @@
 				)
 			)
 			(property "Footprint" ""
-				(at 7.62 0 0)
+				(at -6.35 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -334,7 +334,7 @@
 				)
 			)
 			(property "Datasheet" "~"
-				(at 7.62 0 0)
+				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -343,6 +343,15 @@
 				)
 			)
 			(property "Description" "Atoms - Photons - Quanta"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sim.Enable" "0"
 				(at 0 0 0)
 				(effects
 					(font
@@ -362,7 +371,7 @@
 			)
 			(symbol "Logo_APQ_0_0"
 				(text "APQ"
-					(at 17.78 0 0)
+					(at 3.81 0 0)
 					(effects
 						(font
 							(size 3.81 3.81)
@@ -373,7 +382,7 @@
 			)
 			(symbol "Logo_APQ_0_1"
 				(circle
-					(center 5.08 0)
+					(center -8.89 0)
 					(radius 0.635)
 					(stroke
 						(width 0)
@@ -384,7 +393,7 @@
 					)
 				)
 				(circle
-					(center 5.08 2.54)
+					(center -8.89 2.54)
 					(radius 0.635)
 					(stroke
 						(width 0)
@@ -395,7 +404,7 @@
 					)
 				)
 				(circle
-					(center 7.62 0)
+					(center -6.35 0)
 					(radius 0.635)
 					(stroke
 						(width 0)
@@ -406,7 +415,7 @@
 					)
 				)
 				(circle
-					(center 7.62 2.54)
+					(center -6.35 2.54)
 					(radius 0.635)
 					(stroke
 						(width 0)
@@ -417,7 +426,7 @@
 					)
 				)
 				(circle
-					(center 10.16 2.54)
+					(center -3.81 2.54)
 					(radius 0.635)
 					(stroke
 						(width 0)
@@ -430,7 +439,7 @@
 			)
 			(symbol "Logo_APQ_1_1"
 				(circle
-					(center 5.08 -2.54)
+					(center -8.89 -2.54)
 					(radius 0.635)
 					(stroke
 						(width 0)
@@ -441,7 +450,7 @@
 					)
 				)
 				(circle
-					(center 7.62 -2.54)
+					(center -6.35 -2.54)
 					(radius 0.635)
 					(stroke
 						(width 0)
@@ -452,7 +461,7 @@
 					)
 				)
 				(circle
-					(center 10.16 -2.54)
+					(center -3.81 -2.54)
 					(radius 0.635)
 					(stroke
 						(width 0)
@@ -463,7 +472,7 @@
 					)
 				)
 				(circle
-					(center 10.16 0)
+					(center -3.81 0)
 					(radius 0.635)
 					(stroke
 						(width 0)
@@ -2770,7 +2779,7 @@
 		(lib_id "Graphic:Logo_Open_Hardware_Small")
 		(at 274.32 173.99 0)
 		(unit 1)
-		(exclude_from_sim no)
+		(exclude_from_sim yes)
 		(in_bom no)
 		(on_board yes)
 		(dnp no)
@@ -2820,15 +2829,6 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Enable" "0"
-			(at 274.32 173.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(instances
 			(project ""
 				(path "/58dc14f9-c158-4824-a84e-24a6a482a7a4"
@@ -2840,7 +2840,7 @@
 	)
 	(symbol
 		(lib_id "Custom_logos:Logo_APQ")
-		(at 242.57 171.45 0)
+		(at 256.54 171.45 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -2848,7 +2848,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005f802845")
 		(property "Reference" "LOGO1"
-			(at 248.92 164.465 0)
+			(at 262.89 164.465 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2857,7 +2857,7 @@
 			)
 		)
 		(property "Value" "Logo_APQ"
-			(at 248.92 177.8 0)
+			(at 262.89 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2866,7 +2866,7 @@
 			)
 		)
 		(property "Footprint" "Custom_footprints_project:APQ-Logo_small"
-			(at 250.19 171.45 0)
+			(at 264.16 171.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2875,7 +2875,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 250.19 171.45 0)
+			(at 264.16 171.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2883,8 +2883,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
-			(at 242.57 171.45 0)
+		(property "Description" "Atoms - Photons - Quanta"
+			(at 256.54 171.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2893,7 +2893,16 @@
 			)
 		)
 		(property "DNP" "1"
-			(at 242.57 171.45 0)
+			(at 256.54 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Enable" "0"
+			(at 256.54 171.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)

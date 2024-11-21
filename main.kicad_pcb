@@ -129,6 +129,7 @@
 	(net 6 "/Remote_Sense_-")
 	(net 7 "unconnected-(HS1-Pad1)")
 	(net 8 "Net-(J3-Pin_1)")
+	(net 9 "unconnected-(HS1-Pad1)_1")
 	(footprint "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm"
 		(layer "F.Cu")
 		(uuid "00000000-0000-0000-0000-0000618b1049")
@@ -9000,7 +9001,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Generic connector, single row, 01x01, script generated"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9052,7 +9053,7 @@
 				)
 			)
 		)
-		(property ki_fp_filters "Connector*:*")
+		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/00000000-0000-0000-0000-000061911e61")
 		(sheetname "Root")
 		(sheetfile "main.kicad_sch")
@@ -9327,7 +9328,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Generic connector, single row, 01x01, script generated"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9379,7 +9380,7 @@
 				)
 			)
 		)
-		(property ki_fp_filters "Connector*:*")
+		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/00000000-0000-0000-0000-00006191191c")
 		(sheetname "Root")
 		(sheetfile "main.kicad_sch")
@@ -9654,7 +9655,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Open Hardware logo, small"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -9662,18 +9663,6 @@
 			(effects
 				(font
 					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "exclude_from_bom" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "52d3860d-bf8f-4ddb-8729-36edaa9a527c")
-			(effects
-				(font
-					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -11289,7 +11278,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Generic connector, single row, 01x01, script generated"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11341,7 +11330,7 @@
 				)
 			)
 		)
-		(property ki_fp_filters "Connector*:*")
+		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/00000000-0000-0000-0000-00005fd967a5")
 		(sheetname "Root")
 		(sheetfile "main.kicad_sch")
@@ -11602,7 +11591,7 @@
 				)
 			)
 		)
-		(property "Datasheet" " ~"
+		(property "Datasheet" ""
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -11614,7 +11603,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -11650,7 +11639,7 @@
 				)
 			)
 		)
-		(property ki_fp_filters "*BNC* *SMA* *SMB* *SMC* *Cinch* *LEMO*")
+		(property ki_fp_filters "*BNC* *SMA* *SMB* *SMC* *Cinch* *LEMO* *UMRF* *MCX* *U.FL*")
 		(path "/00000000-0000-0000-0000-0000618f2c23")
 		(sheetname "Root")
 		(sheetfile "main.kicad_sch")
@@ -12002,6 +11991,17 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "${KIPRJMOD}/footprints_project_specific.3dshapes/bnc_90_1-1337543-0.wrl"
+			(offset
+				(xyz 0 12.54 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 180)
+			)
+		)
 	)
 	(footprint "Connector:Banana_Cliff_FCR7350B_S16N-PC_Horizontal"
 		(layer "F.Cu")
@@ -12057,7 +12057,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Generic connector, single row, 01x01, script generated"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12109,7 +12109,7 @@
 				)
 			)
 		)
-		(property ki_fp_filters "Connector*:*")
+		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/00000000-0000-0000-0000-0000618ee54f")
 		(sheetname "Root")
 		(sheetfile "main.kicad_sch")
@@ -12384,7 +12384,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Generic connector, single row, 01x01, script generated"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12436,7 +12436,7 @@
 				)
 			)
 		)
-		(property ki_fp_filters "Connector*:*")
+		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/00000000-0000-0000-0000-0000618f1223")
 		(sheetname "Root")
 		(sheetfile "main.kicad_sch")
@@ -13826,7 +13826,7 @@
 		)
 		(fp_arc
 			(start -17.691791 -12.749206)
-			(mid -16.926425 -12.74787)
+			(mid -16.926426 -12.74787)
 			(end -16.386175 -12.20573)
 			(stroke
 				(width 0.12)
@@ -14123,7 +14123,7 @@
 		)
 		(fp_arc
 			(start 18.007467 12.859044)
-			(mid 17.24283 12.892429)
+			(mid 17.242829 12.892428)
 			(end 16.678541 12.375356)
 			(stroke
 				(width 0.12)
@@ -14145,7 +14145,7 @@
 		)
 		(fp_arc
 			(start 19.058317 -9.075185)
-			(mid 19.74445 -9.414276)
+			(mid 19.74445 -9.414242)
 			(end 20.469421 -9.168911)
 			(stroke
 				(width 0.12)
@@ -14167,7 +14167,7 @@
 		)
 		(fp_arc
 			(start 19.834479 -5.256572)
-			(mid 20.59659 -5.327292)
+			(mid 20.596584 -5.327302)
 			(end 21.185447 -4.838378)
 			(stroke
 				(width 0.12)
@@ -14882,7 +14882,7 @@
 		)
 		(fp_arc
 			(start 9.39953 -11.8)
-			(mid 9.604557 -12.294964)
+			(mid 9.604561 -12.294969)
 			(end 10.09953 -12.5)
 			(stroke
 				(width 0.1)
@@ -14937,7 +14937,7 @@
 		)
 		(fp_arc
 			(start 12.79953 -11.8)
-			(mid 13.004557 -12.294964)
+			(mid 13.004551 -12.294999)
 			(end 13.49953 -12.5)
 			(stroke
 				(width 0.1)
@@ -14970,7 +14970,7 @@
 		)
 		(fp_arc
 			(start 13.725181 -12.49953)
-			(mid 14.203473 -12.285811)
+			(mid 14.203509 -12.285818)
 			(end 14.39953 -11.8)
 			(stroke
 				(width 0.1)
@@ -14981,7 +14981,7 @@
 		)
 		(fp_arc
 			(start 14.30047 11.8)
-			(mid 14.095443 12.294964)
+			(mid 14.095449 12.294999)
 			(end 13.60047 12.5)
 			(stroke
 				(width 0.1)
@@ -15017,7 +15017,7 @@
 			(drill 2.7)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 7 "unconnected-(HS1-Pad1)")
+			(net 9 "unconnected-(HS1-Pad1)_1")
 			(pintype "passive+no_connect")
 			(uuid "e8709c78-f214-40d3-993c-3fb721f81943")
 		)
@@ -15087,7 +15087,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Generic connector, single row, 01x01, script generated"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -15139,7 +15139,7 @@
 				)
 			)
 		)
-		(property ki_fp_filters "Connector*:*")
+		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/00000000-0000-0000-0000-00005fd8a2d4")
 		(sheetname "Root")
 		(sheetfile "main.kicad_sch")
