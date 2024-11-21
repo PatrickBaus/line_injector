@@ -453,7 +453,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "main.kicad_pro",
+    "filename": "line_injector.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -487,11 +487,11 @@
     "last_paths": {
       "gencad": "",
       "idf": "",
-      "netlist": "main.net",
+      "netlist": "line_injector.net",
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "main.step",
+      "step": "line_injector.step",
       "svg": "",
       "vrml": ""
     },
