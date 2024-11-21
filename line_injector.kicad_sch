@@ -9,7 +9,7 @@
 		(date "2024-11-21")
 		(rev "v1.0.2")
 		(comment 1 "Copyright (©) 2024, Patrick Baus <patrick.baus@physik.tu-darmstadt.de>")
-		(comment 2 "Licensed under CERN OHL v.1.2")
+		(comment 2 "Licensed under CERN OHL-W v2.0")
 	)
 	(lib_symbols
 		(symbol "Connector:Conn_01x01_Socket"
@@ -2842,7 +2842,7 @@
 		(lib_id "Custom_logos:Logo_APQ")
 		(at 256.54 171.45 0)
 		(unit 1)
-		(exclude_from_sim no)
+		(exclude_from_sim yes)
 		(in_bom no)
 		(on_board yes)
 		(dnp no)
@@ -2893,15 +2893,6 @@
 			)
 		)
 		(property "DNP" "1"
-			(at 256.54 171.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Enable" "0"
 			(at 256.54 171.45 0)
 			(effects
 				(font
